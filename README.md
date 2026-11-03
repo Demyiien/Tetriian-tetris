@@ -1,4 +1,4 @@
-# Afterglow
+# Tetriian
 
 A polished, responsive Tetris game built with native JavaScript and Canvas. No installation or build step required. Requires Node.js 18 or later for the local server and tests.
 
